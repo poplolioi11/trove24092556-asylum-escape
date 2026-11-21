@@ -4,11 +4,11 @@
 
 Feng ren tao tuo [Three Patients Leave an Asylum] appeared in Tung Wah Times (1913-01-25). The report describes three patients leaving a mental institution in the Brisbane area. A police officer found and returned one patient. The text documents the newspaper's portrayal of institutional supervision and police involvement.
 
-## V0.1.0
+## V0.2.0
 
-完整收錄第7版此篇原題與正文 5 個原欄，全文格式為 TXT、JSON 與 TEI XML。此版固定 AI 輔助初錄，標明未定讀法。尚未經人類全文雙校。
+完整收錄第7版此篇原題與正文 5 個原欄，全文格式為 TXT、JSON 與 TEI XML。比對獨立原圖讀法後回圖裁定，採用 0 筆訂正，留存疑讀定位。
 
-TXT, JSON and TEI XML cover the complete separately headed article, comprising the heading and 5 source columns on page 7. This edition preserves the first AI-assisted transcription and marks uncertainties. It has not been double proofread by human readers.
+TXT, JSON and TEI XML cover the complete separately headed article, comprising the heading and 5 source columns on page 7. An independent image reading was compared with the first transcription. Source-image adjudication adopted 0 changes and retained unresolved readings.
 
 ## 資料與原件 / Data and source
 
