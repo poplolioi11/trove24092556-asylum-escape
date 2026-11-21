@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "work_key": "trove24092556",
+    "title": "瘋人逃脫",
+    "edition": "0.1.0",
+    "language": "lzh",
+    "shelfmark": "Tung Wah Times, 1913-01-25, p. 7, NLA news-page24092556",
+    "reading_order": "source columns, ordered as printed",
+    "title_policy": "Stand-alone headings in extras, inline ones in their original column",
+    "version": "0.1.0",
+    "dataset_title": "瘋人逃脫（《東華報》1913-01-25 第7版，澳洲國家圖書館） / Feng ren tao tuo [Three Patients Leave an Asylum]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "◎瘋人逃脫　普利士濱消息云。披爐埃翁瘋院。有瘋人三"
+            },
+            {
+              "text": "名。一爲瓊尼架人。一爲日本人。一爲半黑人。于星期五晚"
+            },
+            {
+              "text": "。以往釣魚爲名。私行逃往文厘。進入埠內。搭火車前往普"
+            },
+            {
+              "text": "利時濱埠。嗣後巡警跟踪而至。已將半黑瘋人捉回。餘二人"
+            },
+            {
+              "text": "尚無踪跡。該處居民。甚爲驚恐云。"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "single",
+          "column": 1,
+          "context": "披爐埃翁",
+          "candidates": [
+            "披爐埃翁",
+            "披爐埃崙"
+          ],
+          "note": "以原欄所見暫錄；瘋院地名所指待其他史料核實。"
+        },
+        {
+          "side": "single",
+          "column": 2,
+          "context": "瓊尼架",
+          "candidates": [
+            "瓊尼架",
+            "瓊尼加"
+          ],
+          "note": "末字下有木形暫錄架；地名所指未定。"
+        },
+        {
+          "side": "single",
+          "column": 3,
+          "context": "文厘",
+          "candidates": [
+            "文厘",
+            "文里"
+          ],
+          "note": "末字左側短豎、尾端墨跡相近。"
+        }
+      ],
+      "observations": "第七版上段《本洲新聞》，見右欄上段結束後以雙圈起篇；向左五欄依序閱讀，末云前後與下一則有界。周邊欄未納。",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24092556",
+      "catalogue_page": 7,
+      "image_url": "https://trove.nla.gov.au/ndp/imageservice/nla.news-page24092556/level5",
+      "sha256": "fccdd8876f54c790fafa39102ccd8be4e0841bf66544b320be66deaba8a6deb4",
+      "label": "1913-01-25 第7版",
+      "dimensions": [
+        2957,
+        3929
+      ],
+      "article_extent": [
+        1203,
+        297,
+        1487,
+        1142
+      ],
+      "content_role": "complete-article",
+      "state": "transcribed"
+    }
+  ]
+}
